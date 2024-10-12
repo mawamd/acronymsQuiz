@@ -1,0 +1,19 @@
+{
+    "VACTERL": {
+        "V": "Vertebral",
+        "A": "Anal Atresia",
+        "C": "Cardiac",
+        "T": "Tracheoesophageal Fistula",
+        "E": "Esophageal Atresia",
+        "R": "Renal",
+        "L": "Limb"
+    },
+    "TTTTTH": {
+        "T1": "Truncus Arteriosus",
+        "T2": "Tricuspid Atresia",
+        "T3": "Transposition of the Great Arteries",
+        "T4": "Tetralogy of Fallot",
+        "T5": "Total Anomalous Pulmonary Venous Connection",
+        "H": "Hypoplastic Left Heart Syndrome"
+    }
+}
